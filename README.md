@@ -18,6 +18,5 @@ The following processes were followed to achieve the desired result:
  
 ## Inference
 The YOLO algorithm is being used in TESLA cars for object tracking and making sure the possibilities of accidents are reduced by predicting the path of objects using several cameras installed in and around a TESLA car. 
-While preparing the data I had to take many features of myself in a sleepy state. While creating the data, I realized that when we’re asleep, we’re all the same and what makes us stand out is our ability to think. 
-Clinically speaking, everyone has the same physical features. What makes them stand out is their ability to think. A good cohesion of mentality and ability goes well in pursuing your goals and dreams.
+
 The use case of this model is to prevent drivers on long journeys from falling asleep and making sure they take a well-earned rest.
